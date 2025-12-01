@@ -87,3 +87,35 @@ img {
     padding: 20px;
     color: #fff;
 }
+
+footer{
+
+    background-color: #ccc7c7;
+    color: white;
+    text-align: center;
+    padding:50px;
+    display:grid;
+    
+
+}
+
+footer p{
+margin: 0;
+font-size: 16px;
+
+
+}
+
+footer a:hover{
+
+    text-decoration: underline;
+}
+
+.right{
+
+    display:grid;
+  
+}
+
+
+
